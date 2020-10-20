@@ -7,3 +7,4 @@ Repositorio da disciplina IF686 - Paradigmas de Linguagens Computacionais
 Semana | Assuntos
 -------|---------------------------------------------------------------
 1      | Introducao a programacao funcional, tipos basicos, sintaxe
+2      | Provas de propriedades, definicoes locais, funcoes recursivas
